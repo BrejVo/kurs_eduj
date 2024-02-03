@@ -1,0 +1,4 @@
+repository "kurs_eduj@MWitwicki@cloud"
+  path "/"
+    br "/main"
+    co "/main"
